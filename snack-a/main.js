@@ -1,6 +1,6 @@
 'use strict'
 //scrivo un array 
-const input = [];
+const input = ['cane', 'gattto'];
 //scrivere una funzione contaElementi()
 function contaElementi(input) {
     return input.length;
